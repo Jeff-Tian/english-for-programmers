@@ -10,3 +10,4 @@
 |手抖、手滑|fingers crossed|当时在设置整个流程时比较挣扎，就手滑了一下。|Starting to feel a little sour on the whole actions setup at the moment, so fingers crossed :)||https://github.com/skx/github-action-publish-binaries/issues/12#issuecomment-546632941|
 |我一会儿试下|I'll give this a shoot.|我一会儿试下这个方法|I'll give this a shoot.|原来除了 I'll give this a try，还可以用 shoot.|[github issue comment](https://github.com/semantic-release/semantic-release/issues/467#issuecomment-336131965)|
 |并不管用|no luck|把它加在 devServer 对象的里面和外面，我都试过了，并不管用。|I've tried it to be inside and outside the devSever object, no luck.|“并没有什么卵用”的地道和简洁的英语表达|https://github.com/storybookjs/storybook/issues/208#issuecomment-305504496|
+|问题不大|is less of a problem|即使做了额外的事情，问题也不大|so doing extra work is less of a problem.||[Also, don’t forget that React defers running useEffect until after the browser has painted, so doing extra work is less of a problem.](https://reactjs.org/docs/hooks-effect.html)|
